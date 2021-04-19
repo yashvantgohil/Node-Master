@@ -1,0 +1,119 @@
+{"message":"Configuration property \"jwtPrivateKey\" is not defined","stack":"Error: Configuration property \"jwtPrivateKey\" is not defined\n    at Config.get (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\node_modules\\config\\lib\\config.js:182:11)\n    at module.exports (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\startup\\config.js:4:15)\n    at Object.<anonymous> (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-04-19T17:44:22.037Z"}
+{"message":"Configuration property \"jwtPrivateKey\" is not defined","stack":"Error: Configuration property \"jwtPrivateKey\" is not defined\n    at Config.get (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\node_modules\\config\\lib\\config.js:182:11)\n    at module.exports (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\startup\\config.js:4:15)\n    at Object.<anonymous> (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-04-19T17:52:37.607Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T17:53:57.129Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T17:53:57.131Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T17:53:57.132Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T17:53:57.133Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T17:53:57.134Z"}
+{"message":"Configuration property \"jwtPrivateKey\" is not defined","stack":"Error: Configuration property \"jwtPrivateKey\" is not defined\n    at Config.get (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\node_modules\\config\\lib\\config.js:182:11)\n    at module.exports (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\startup\\config.js:4:15)\n    at Object.<anonymous> (C:\\Users\\yasha\\Desktop\\Node\\express-demo\\index.js:9:28)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-04-19T17:53:57.162Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:02:11.806Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:02:11.807Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:02:11.808Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:02:11.810Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:02:11.811Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:03:43.545Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:03:43.547Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:03:43.548Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:03:43.550Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:03:43.551Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:03:48.862Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:03:48.864Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:03:48.865Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:03:48.867Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:03:48.868Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:04:55.405Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:04:55.407Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:04:55.408Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:04:55.410Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:04:55.410Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:04:55.444Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:06:02.194Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:06:02.196Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:06:02.197Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:06:02.198Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:06:02.199Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:06:02.233Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:06:09.852Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:06:09.854Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:06:09.855Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:06:09.856Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:06:09.857Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:06:09.886Z"}
+{"level":"info","message":"connected","timestamp":"2021-04-19T18:06:09.961Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:06:20.167Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:06:20.169Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:06:20.170Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:06:20.172Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:06:20.172Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:06:20.202Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:06:20.264Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:08:20.473Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:08:20.474Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:08:20.475Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:08:20.477Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:08:20.478Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:08:20.511Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:08:20.568Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:08:40.792Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:08:40.794Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:08:40.795Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:08:40.796Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:08:40.797Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:08:40.828Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:08:40.886Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:08:57.758Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:08:57.760Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:08:57.761Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:08:57.762Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:08:57.763Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:08:57.796Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:08:57.855Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:09:51.937Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:09:51.938Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:09:51.940Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:09:51.941Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:09:51.942Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:09:51.978Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:09:52.040Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:10:04.781Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:10:04.782Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:10:04.784Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:10:04.786Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:10:04.787Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:10:04.816Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:10:04.878Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:10:51.350Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:10:51.352Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:10:51.352Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:10:51.354Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:10:51.355Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:10:51.385Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:10:51.452Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:11:16.575Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:11:16.577Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:11:16.578Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:11:16.580Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:11:16.581Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:11:16.624Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:11:16.690Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:13:31.796Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:13:31.798Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:13:31.800Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:13:31.801Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:13:31.802Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:13:31.856Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:13:31.946Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:17:37.341Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:17:37.343Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:17:37.344Z"}
+{"level":"info","message":"app name : dev-express-demo","timestamp":"2021-04-19T18:17:37.346Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:17:37.347Z"}
+{"level":"info","message":"server listening to http://localhost:4000","timestamp":"2021-04-19T18:17:37.399Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:17:37.470Z"}
+{"level":"info","message":"NODE_ENV: undefined","timestamp":"2021-04-19T18:51:46.564Z"}
+{"level":"info","message":"app setting: development ","timestamp":"2021-04-19T18:51:46.566Z"}
+{"level":"info","message":"morgan logger is enabled...","timestamp":"2021-04-19T18:51:46.566Z"}
+{"level":"info","message":"app name : dev-node-master","timestamp":"2021-04-19T18:51:46.567Z"}
+{"level":"info","message":"mail server : dev-mail-server","timestamp":"2021-04-19T18:51:46.568Z"}
+{"message":"Configuration property \"jwtPrivateKey\" is not defined","stack":"Error: Configuration property \"jwtPrivateKey\" is not defined\n    at Config.get (D:\\Node Project\\Node-Master\\node_modules\\config\\lib\\config.js:182:11)\n    at module.exports (D:\\Node Project\\Node-Master\\startup\\config.js:4:15)\n    at Object.<anonymous> (D:\\Node Project\\Node-Master\\index.js:10:28)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-04-19T18:51:46.597Z"}
+{"level":"info","message":"mongodb connected","timestamp":"2021-04-19T18:51:46.673Z"}
